@@ -4,8 +4,8 @@ During my 3rd semester at university, as part of a minor course on C++, I develo
 ## Technical Details:
 
   Language and Tools:
-    - C++: Core logic and data structures for managing bus reservations.
-    - PyQt5: GUI framework for creating an intuitive and user-friendly interface.
+    C++: Core logic and data structures for managing bus reservations.
+    PyQt5: GUI framework for creating an intuitive and user-friendly interface.
 
   Key Features:
     - Ticket Booking: Allows users to book tickets by providing seat number, passenger name, entry, and final destinations. The system checks for seat availability to prevent booking conflicts.
