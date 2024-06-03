@@ -8,18 +8,17 @@ Language and Tools:
   - PyQt5: GUI framework for creating an intuitive and user-friendly interface.
 
 Key Features:
-    - Ticket Booking: Allows users to book tickets by providing seat number, passenger name, entry, and final destinations. The system checks for seat availability to prevent booking conflicts.
-    - Ticket Cancellation: Enables users to cancel previously booked tickets by specifying the seat number.
-    - Ticket Modification: Permits users to modify the details of existing bookings, including passenger name, entry, and final destinations.
-    - View Booked Tickets: Displays a list of all currently booked tickets with detailed information.
-    - Add Food: Offers the option to add food preferences to a specific booking.
+  - Ticket Booking: Allows users to book tickets by providing seat number, passenger name, entry, and final destinations. The system checks for seat availability to prevent booking conflicts.
+  - Ticket Cancellation: Enables users to cancel previously booked tickets by specifying the seat number.
+  - Ticket Modification: Permits users to modify the details of existing bookings, including passenger name, entry, and final destinations.
+  - View Booked Tickets: Displays a list of all currently booked tickets with detailed information.
+  - Add Food: Offers the option to add food preferences to a specific booking.
 
 Data Management:
-    - Utilized a singly linked list data structure to efficiently manage and traverse the list of booked tickets, ensuring dynamic memory allocation and deallocation as tickets are booked and
-    cancelled.
-    - Error Handling and Validation:
-      Implemented robust error handling to manage scenarios such as booking conflicts, invalid seat numbers, and attempts to cancel or modify non-existent tickets.
-      Provided user feedback through the GUI to inform users of successful operations or errors.
+Utilized a singly linked list data structure to efficiently manage and traverse the list of booked tickets, ensuring dynamic memory allocation and deallocation as tickets are booked and cancelled.
+    
+Error Handling and Validation:
+Implemented robust error handling to manage scenarios such as booking conflicts, invalid seat numbers, and attempts to cancel or modify non-existent tickets.Provided user feedback through the GUI to inform users of successful operations or errors.
 
 
 ## Challenges and Learning Outcomes:
