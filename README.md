@@ -28,6 +28,5 @@ Implemented robust error handling to manage scenarios such as booking conflicts,
   - Dynamic Data Structures: Strengthened my understanding of linked lists and their application in real-world scenarios.
   - Project Management: Managed the end-to-end development process, from initial design and implementation to testing and deployment.
 
-## Conclusion
 This project not only reinforced my programming skills in C++ but also introduced me to the world of GUI development. It provided a practical application of data structures and algorithms in solving real-world problems and highlighted the importance of user-centric design in software development. The successful completion of this project demonstrated my ability to integrate core programming concepts with modern interface design to create a functional and user-friendly application.
 
