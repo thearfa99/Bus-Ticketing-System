@@ -15,9 +15,11 @@ Key Features:
   - Add Food: Offers the option to add food preferences to a specific booking.
 
 Data Management:
+
 Utilized a singly linked list data structure to efficiently manage and traverse the list of booked tickets, ensuring dynamic memory allocation and deallocation as tickets are booked and cancelled.
     
 Error Handling and Validation:
+
 Implemented robust error handling to manage scenarios such as booking conflicts, invalid seat numbers, and attempts to cancel or modify non-existent tickets.Provided user feedback through the GUI to inform users of successful operations or errors.
 
 
